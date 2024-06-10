@@ -1,0 +1,29 @@
+#carousel {
+    max-height: 500px;
+}
+
+#carousel img {
+    max-height: 500px;
+    height: 100%;
+}
+
+header {
+    background-color: #302A2C;
+    color: #fff;
+}
+
+nav img {
+    max-height: 200px;
+}
+
+nav a {
+    font-size: 26px;
+    text-decoration: none;
+    color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        max-width: 100%;
+    }
+}
